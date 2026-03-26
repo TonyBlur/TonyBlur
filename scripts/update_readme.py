@@ -30,10 +30,7 @@ def fetch_all_repos(username: str) -> List[Dict]:
     repos: List[Dict] = []
     page = 1
     while True:
-        url = (
-            f"https://api.github.com/users/{username}/repos"
-            f"?per_page=100&page={page}&sort=updated"
-        )
+        url = f"https://api.github.com/users/{username}/repos?per_page=100&page={page}&sort=updated"
         chunk = fetch_json(url)
         if not chunk:
             break
@@ -55,14 +52,10 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
 
     lang_counter = collections.Counter(r.get("language") for r in repos if r.get("language"))
     top_lang = ", ".join(f"{lang} ({cnt})" for lang, cnt in lang_counter.most_common(6)) or "N/A"
-
     repos_sorted = sorted(repos, key=lambda r: r.get("pushed_at", ""), reverse=True)
 
     lines: List[str] = []
-    lines.append("## Auto-updated Repository Stats (All Repos)")
-    lines.append("")
-
-    lines.append("### Live Dynamic Visuals")
+    lines.append("## 📊 Visualizations")
     lines.append("")
     lines.append('<div align="center">')
     lines.append(
@@ -86,16 +79,16 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append("</div>")
     lines.append("")
 
-    lines.append(f"- Total public repositories: **{total}**")
-    lines.append(f"- Source repositories: **{source}**")
-    lines.append(f"- Fork repositories: **{forks}**")
-    lines.append(f"- Top languages by repository count: **{top_lang}**")
+    lines.append("## 📦 Repository Status")
     lines.append("")
-
-    lines.append("### Repository Maintenance Board")
+    lines.append(f"- 🌐 Total public repositories: **{total}**")
+    lines.append(f"- 🧩 Source repositories: **{source}**")
+    lines.append(f"- 🍴 Fork repositories: **{forks}**")
+    lines.append(f"- 🛠️ Top languages by repository count: **{top_lang}**")
     lines.append("")
-    lines.append("| Repo | Type | Stars | Last Push | Main Language | Activity |")
+    lines.append("| Repo | Type | ⭐ Stars | Last Push | Main Language | Activity |")
     lines.append("|---|---:|---:|---:|---|---|")
+
     for r in repos_sorted[:MAX_REPOS_TO_SHOW]:
         name = r["name"]
         repo_url = r["html_url"]
@@ -112,6 +105,7 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append("")
     lines.append(f"_Showing the latest **{min(total, MAX_REPOS_TO_SHOW)}** repositories by push time (out of {total} total)._")
     lines.append("")
+
     return "\n".join(lines)
 
 

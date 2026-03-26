@@ -1,19 +1,12 @@
-<div align="center">
+## 🙋 About Me
 
-# TonyBlur
-
-### Dynamic GitHub Project Maintenance Dashboard
-
-This profile is automatically updated from live GitHub repository data,
-including **all public repositories (source + forks)**.
-
-</div>
+- 💻 Focus: plugin ecosystem, integrations, and practical developer tools.
+- 🚀 Style: keep things simple, useful, and maintainable.
+- 🔄 This profile is auto-updated from live GitHub data.
 
 <!-- AUTO-REPO-STATS:START -->
 
-## Auto-updated Repository Stats (All Repos)
-
-### Live Dynamic Visuals
+## 📊 Visualizations
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
@@ -28,14 +21,14 @@ including **all public repositories (source + forks)**.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyBlur&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-- Total public repositories: **18**
-- Source repositories: **4**
-- Fork repositories: **14**
-- Top languages by repository count: **TypeScript (5), JavaScript (4), Python (3), HTML (3), Go (1)**
+## 📦 Repository Status
 
-### Repository Maintenance Board
+- 🌐 Total public repositories: **18**
+- 🧩 Source repositories: **4**
+- 🍴 Fork repositories: **14**
+- 🛠️ Top languages by repository count: **TypeScript (5), JavaScript (4), Python (3), HTML (3), Go (1)**
 
-| Repo | Type | Stars | Last Push | Main Language | Activity |
+| Repo | Type | ⭐ Stars | Last Push | Main Language | Activity |
 |---|---:|---:|---:|---|---|
 | [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-03-26 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
 | [tblu-lobehub](https://github.com/TonyBlur/tblu-lobehub) | Fork | 0 | 2026-03-26 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobehub?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobehub?style=flat-square) |
