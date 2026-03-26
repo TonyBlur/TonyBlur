@@ -52,7 +52,11 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
 
     lang_counter = collections.Counter(r.get("language") for r in repos if r.get("language"))
     top_lang = ", ".join(f"{lang} ({cnt})" for lang, cnt in lang_counter.most_common(6)) or "N/A"
-    repos_sorted = sorted(repos, key=lambda r: r.get("pushed_at", ""), reverse=True)
+    repos_sorted = sorted(
+        repos,
+        key=lambda r: (r.get("stargazers_count", 0), r.get("pushed_at", "")),
+        reverse=True,
+    )
 
     lines: List[str] = []
     lines.append("## 📊 Visualizations")
@@ -102,8 +106,6 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
         )
         lines.append(f"| [{name}]({repo_url}) | {kind} | {stars} | {pushed} | {lang} | {activity_badge} |")
 
-    lines.append("")
-    lines.append(f"_Showing the latest **{min(total, MAX_REPOS_TO_SHOW)}** repositories by push time (out of {total} total)._")
     lines.append("")
 
     return "\n".join(lines)
