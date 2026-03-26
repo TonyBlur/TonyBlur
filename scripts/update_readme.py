@@ -2,7 +2,6 @@
 from __future__ import annotations
 
 import collections
-import datetime as dt
 import json
 import os
 import urllib.request
@@ -67,9 +66,6 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append(f"- Fork repositories: **{forks}**")
     lines.append(f"- Top languages by repository count: **{top_lang}**")
     lines.append("")
-    lines.append(f"_Last updated (UTC): {dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}_")
-    lines.append("")
-
     lines.append("### Repository Maintenance Board")
     lines.append("")
     lines.append("| Repo | Type | Stars | Last Push | Main Language | Activity |")
@@ -88,9 +84,8 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
         lines.append(f"| [{name}]({repo_url}) | {kind} | {stars} | {pushed} | {lang} | {activity_badge} |")
 
     lines.append("")
-
-    lines.append("")
     lines.append(f"_Showing the latest **{min(total, MAX_REPOS_TO_SHOW)}** repositories by push time (out of {total} total)._")
+    lines.append("")
 
     lines.append("### Live Dynamic Visuals")
     lines.append("")
