@@ -12,6 +12,7 @@ USERNAME = os.getenv("GITHUB_USERNAME", "TonyBlur")
 README_PATH = "README.md"
 START = "<!-- AUTO-REPO-STATS:START -->"
 END = "<!-- AUTO-REPO-STATS:END -->"
+MAX_REPOS_TO_SHOW = 8
 
 
 def fetch_json(url: str) -> dict | list:
@@ -73,7 +74,7 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append("")
     lines.append("| Repo | Type | Stars | Last Push | Main Language | Activity |")
     lines.append("|---|---:|---:|---:|---|---|")
-    for r in repos_sorted:
+    for r in repos_sorted[:MAX_REPOS_TO_SHOW]:
         name = r["name"]
         repo_url = r["html_url"]
         kind = "Fork" if r.get("fork") else "Source"
@@ -87,6 +88,10 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
         lines.append(f"| [{name}]({repo_url}) | {kind} | {stars} | {pushed} | {lang} | {activity_badge} |")
 
     lines.append("")
+
+    lines.append("")
+    lines.append(f"_Showing the latest **{min(total, MAX_REPOS_TO_SHOW)}** repositories by push time (out of {total} total)._")
+
     lines.append("### Live Dynamic Visuals")
     lines.append("")
     lines.append('<div align="center">')
