@@ -2,9 +2,38 @@
 
 # TonyBlur
 
-### Project Maintenance & Update Dashboard
+### Dynamic GitHub Project Maintenance Dashboard
+
+This profile is automatically updated from live GitHub repository data,
+including **all public repositories (source + forks)**.
 
 </div>
+
+<!-- AUTO-REPO-STATS:START -->
+
+## Auto-updated Repository Stats (All Repos)
+
+- Total public repositories: **18**
+- Source repositories: **4**
+- Fork repositories: **14**
+- Top languages by repository count: **TypeScript (5), JavaScript (4), HTML (3), Python (2), Go (1)**
+
+### Repository Maintenance Board
+
+| Repo | Type | Stars | Last Push | Main Language | Activity |
+|---|---:|---:|---:|---|---|
+| [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-03-26 | N/A | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
+| [tblu-lobehub](https://github.com/TonyBlur/tblu-lobehub) | Fork | 0 | 2026-03-26 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobehub?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobehub?style=flat-square) |
+| [tblu-bookmark](https://github.com/TonyBlur/tblu-bookmark) | Fork | 1 | 2026-03-24 | HTML | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-bookmark?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-bookmark?style=flat-square) |
+| [new-api](https://github.com/TonyBlur/new-api) | Fork | 0 | 2026-03-21 | Go | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/new-api?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/new-api?style=flat-square) |
+| [homepage](https://github.com/TonyBlur/homepage) | Fork | 0 | 2026-02-27 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/homepage?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/homepage?style=flat-square) |
+| [cla](https://github.com/TonyBlur/cla) | Fork | 0 | 2025-11-24 | N/A | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/cla?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/cla?style=flat-square) |
+| [apps.apple.com](https://github.com/TonyBlur/apps.apple.com) | Fork | 0 | 2025-11-04 | N/A | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/apps.apple.com?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/apps.apple.com?style=flat-square) |
+| [searxng](https://github.com/TonyBlur/searxng) | Fork | 0 | 2025-10-03 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/searxng?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/searxng?style=flat-square) |
+
+_Showing the latest **8** repositories by push time (out of 18 total)._
+
+### Live Dynamic Visuals
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
@@ -14,39 +43,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBlur&theme=github-compact&hide_border=true" width="100%" />
 </div>
 
-## Repository Maintenance Status
-
 <div align="center">
-
-| Repository | Last Commit | Commit Activity | Primary Language |
-|---|---|---|---|
-| [onlyoffice-filepanel](https://github.com/TonyBlur/onlyoffice-filepanel) | ![last commit](https://img.shields.io/github/last-commit/TonyBlur/onlyoffice-filepanel?style=flat-square) | ![commit activity](https://img.shields.io/github/commit-activity/y/TonyBlur/onlyoffice-filepanel?style=flat-square) | ![lang](https://img.shields.io/github/languages/top/TonyBlur/onlyoffice-filepanel?style=flat-square) |
-| [ragflow-integration-plugin](https://github.com/TonyBlur/ragflow-integration-plugin) | ![last commit](https://img.shields.io/github/last-commit/TonyBlur/ragflow-integration-plugin?style=flat-square) | ![commit activity](https://img.shields.io/github/commit-activity/y/TonyBlur/ragflow-integration-plugin?style=flat-square) | ![lang](https://img.shields.io/github/languages/top/TonyBlur/ragflow-integration-plugin?style=flat-square) |
-| [tblu-lobechat-mindmap-plugin](https://github.com/TonyBlur/tblu-lobechat-mindmap-plugin) | ![last commit](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobechat-mindmap-plugin?style=flat-square) | ![commit activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobechat-mindmap-plugin?style=flat-square) | ![lang](https://img.shields.io/github/languages/top/TonyBlur/tblu-lobechat-mindmap-plugin?style=flat-square) |
-
-</div>
-
-## Project Categories (from current public repositories)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OnlyOffice%20Tools-1-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Integration%20Plugin-1-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LobeChat%20Plugin-1-8957E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profile%20Configuration-1-57606A?style=for-the-badge" />
-</div>
-
-## Language Distribution (from current public repositories)
-
-<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TonyBlur&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyBlur&layout=compact&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TonyBlur&theme=github_dark" />
 </div>
 
-## Repositories
-
-<div align="center">
-  <a href="https://github.com/TonyBlur/onlyoffice-filepanel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TonyBlur&repo=onlyoffice-filepanel&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/TonyBlur/ragflow-integration-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TonyBlur&repo=ragflow-integration-plugin&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/TonyBlur/tblu-lobechat-mindmap-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TonyBlur&repo=tblu-lobechat-mindmap-plugin&theme=github_dark&hide_border=true" /></a>
-</div>
+<!-- AUTO-REPO-STATS:END -->
