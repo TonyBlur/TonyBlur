@@ -1,6 +1,6 @@
 ## 🙋 About Me
 
-- 💻 Focus: AI vibe coding practical tools and lightweight development.
+- 💻 Focus: AI, vibe coding, practical tools and lightweight development.
 - 🚀 Style: keep things simple, useful, and maintainable.
 
 <!-- AUTO-REPO-STATS:START -->
