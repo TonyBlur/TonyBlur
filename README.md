@@ -16,13 +16,13 @@ including **all public repositories (source + forks)**.
 - Total public repositories: **18**
 - Source repositories: **4**
 - Fork repositories: **14**
-- Top languages by repository count: **TypeScript (5), JavaScript (4), HTML (3), Python (2), Go (1)**
+- Top languages by repository count: **TypeScript (5), JavaScript (4), Python (3), HTML (3), Go (1)**
 
 ### Repository Maintenance Board
 
 | Repo | Type | Stars | Last Push | Main Language | Activity |
 |---|---:|---:|---:|---|---|
-| [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-03-26 | N/A | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
+| [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-03-26 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
 | [tblu-lobehub](https://github.com/TonyBlur/tblu-lobehub) | Fork | 0 | 2026-03-26 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobehub?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobehub?style=flat-square) |
 | [tblu-bookmark](https://github.com/TonyBlur/tblu-bookmark) | Fork | 1 | 2026-03-24 | HTML | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-bookmark?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-bookmark?style=flat-square) |
 | [new-api](https://github.com/TonyBlur/new-api) | Fork | 0 | 2026-03-21 | Go | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/new-api?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/new-api?style=flat-square) |
