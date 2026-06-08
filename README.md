@@ -108,22 +108,15 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
-
-</div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyBlur&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=TonyBlur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBlur&theme=github-compact&hide_border=true" width="100%" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
 
 </div>
 
