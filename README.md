@@ -87,27 +87,39 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" />
-  <img height="170" src="https://streak-stats.demolab.com?user=TonyBlur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TonyBlur&theme=github_dark" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+<table width="100%" cellspacing="0" cellpadding="6">
+  <!-- Brick Row 1: small | wide (seam at 1/3) -->
+  <tr>
+    <td colspan="1" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" width="100%" />
+    </td>
+    <td colspan="2" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+  <!-- Brick Row 2: wide | small (seam at 2/3 — staggered) -->
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://streak-stats.demolab.com?user=TonyBlur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+    </td>
+    <td colspan="1" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+  <!-- Brick Row 3: small | wide (seam at 1/3) -->
+  <tr>
+    <td colspan="1" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TonyBlur&theme=github_dark&utc_offset=8" width="100%" />
+    </td>
+    <td colspan="2" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <div align="right">
 
