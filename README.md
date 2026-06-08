@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+TonyBlur;Learning+to+program+my+life" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi%2C+I'm+TonyBlur;Learning+to+program+my+life" alt="Typing SVG" />
 
 **AI Explorer · Vibe Coder · Tool Builder**
 
@@ -15,51 +15,57 @@
 
 </div>
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-## 👋 About Me
+## About Me
 
-- 🔭 I'm currently working on **AI gateway & self-hosted tools**
-- 🌱 I'm currently learning **LLM integration & agent workflows**
-- 💬 Ask me about **API aggregation, Docker deployment, OnlyOffice**
-- 🌍 Website: [tblu.xyz][website-link]
-- ⚡ Fun fact: I fork more than I create — but every fork has a purpose
+- Currently working on **AI gateway & self-hosted tools**
+- Currently learning **LLM integration & agent workflows**
+- Ask me about **API aggregation, Docker deployment, OnlyOffice**
+- Website: [tblu.xyz][website-link]
+- Fun fact: I fork more than I create — but every fork has a purpose
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-### 💫 Tech Stack and Tools
+## Tech Stack and Tools
 
-| | |
-|:---|:---|
-| 💻 **Languages** | [![][typescript-badge]][typescript-link] [![][python-badge]][python-link] [![][javascript-badge]][javascript-link] [![][go-badge]][go-link] [![][cpp-badge]][cpp-link] [![][vue-badge]][vue-link] [![][html-badge]][html-link] [![][shell-badge]][shell-link] |
-| 🎨 **Frontend** | [![][react-badge]][react-link] [![][nodejs-badge]][nodejs-link] [![][tailwind-badge]][tailwind-link] [![][vite-badge]][vite-link] |
-| 🗄️ **Backend** | [![][postgres-badge]][postgres-link] [![][redis-badge]][redis-link] [![][nginx-badge]][nginx-link] |
-| 🚀 **DevOps** | [![][docker-badge]][docker-link] [![][ghactions-badge]][ghactions-link] [![][vercel-badge]][vercel-link] [![][cloudflare-badge]][cloudflare-link] [![][git-badge]][git-link] |
-| 🤖 **AI & LLM** | [![][copilot-badge]][copilot-link] [![][claude-badge]][claude-link] [![][codex-badge]][codex-link] [![][workbuddy-badge]][workbuddy-link] [![][qoderwork-badge]][qoderwork-link] |
-| 🔧 **IDE** | [![][vscode-badge]][vscode-link] |
-| 🖥️ **OS** | [![][windows-badge]][windows-link] [![][linux-badge]][linux-link] [![][macos-badge]][macos-link] |
-| ⌨️ **Terminal** | [![][winterm-badge]][winterm-link] [![][bash-badge]][bash-link] [![][zsh-badge]][zsh-link] |
-| 🧩 **Other** | [![][figma-badge]][figma-link] [![][blender-badge]][blender-link] [![][github-badge]][github-link] |
+[![][lang-label]][readme-top] [![][typescript-badge]][typescript-link] [![][python-badge]][python-link] [![][javascript-badge]][javascript-link] [![][go-badge]][go-link] [![][cpp-badge]][cpp-link] [![][vue-badge]][vue-link] [![][html-badge]][html-link] [![][shell-badge]][shell-link]
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+[![][frontend-label]][readme-top] [![][react-badge]][react-link] [![][nodejs-badge]][nodejs-link] [![][tailwind-badge]][tailwind-link] [![][vite-badge]][vite-link]
 
-## ✨ Featured Projects
+[![][backend-label]][readme-top] [![][postgres-badge]][postgres-link] [![][redis-badge]][redis-link] [![][nginx-badge]][nginx-link]
+
+[![][devops-label]][readme-top] [![][docker-badge]][docker-link] [![][ghactions-badge]][ghactions-link] [![][vercel-badge]][vercel-link] [![][cloudflare-badge]][cloudflare-link] [![][git-badge]][git-link]
+
+[![][ai-label]][readme-top] [![][copilot-badge]][copilot-link] [![][claude-badge]][claude-link] [![][codex-badge]][codex-link] [![][workbuddy-badge]][workbuddy-link] [![][qoderwork-badge]][qoderwork-link]
+
+[![][ide-label]][readme-top] [![][vscode-badge]][vscode-link]
+
+[![][os-label]][readme-top] [![][windows-badge]][windows-link] [![][linux-badge]][linux-link] [![][macos-badge]][macos-link]
+
+[![][terminal-label]][readme-top] [![][winterm-badge]][winterm-link] [![][bash-badge]][bash-link] [![][zsh-badge]][zsh-link]
+
+[![][other-label]][readme-top] [![][figma-badge]][figma-link] [![][blender-badge]][blender-link] [![][github-badge]][github-link]
+
+---
+
+## Featured Projects
 
 | Project | Description | Tech |
 |:---|:---|:---:|
-| 🗂️ [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
-| 📊 [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
-| 🌐 [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
-| 🧩 [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
-| 🔖 [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
+| [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
+| [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
+| [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
+| [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
+| [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBlur&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 <br/>
 
@@ -71,11 +77,9 @@
 
 </div>
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
 <div align="center">
-
-**Thanks for visiting! 💙**
 
 [![][back-to-top]][readme-top]
 
@@ -85,19 +89,30 @@
 
 [readme-top]: #readme-top
 [website-link]: https://www.tblu.xyz
-[website-shield]: https://img.shields.io/badge/🏠_Website-tblu.xyz-58A6FF?style=flat-square&labelColor=black
+[website-shield]: https://img.shields.io/badge/Website-tblu.xyz-111?style=flat-square
 [github-stars-link]: https://github.com/TonyBlur?tab=stars
-[github-stars-shield]: https://img.shields.io/badge/⭐_1.6k_Stars-ffcb47?style=flat-square&labelColor=black
+[github-stars-shield]: https://img.shields.io/badge/Stars-1.6k-111?style=flat-square
 [github-followers-link]: https://github.com/TonyBlur?tab=followers
-[github-followers-shield]: https://img.shields.io/badge/👥_16_Followers-58A6FF?style=flat-square&labelColor=black
+[github-followers-shield]: https://img.shields.io/badge/Followers-16-111?style=flat-square
 [github-repos-link]: https://github.com/TonyBlur?tab=repositories
-[github-repos-shield]: https://img.shields.io/badge/📦_22_Repos-8ae8ff?style=flat-square&labelColor=black
+[github-repos-shield]: https://img.shields.io/badge/Repos-22-111?style=flat-square
 [onlyoffice-link]: https://github.com/TonyBlur/onlyoffice-filepanel
 [scoreboard-link]: https://github.com/TonyBlur/scoreboard
 [glpi-link]: https://github.com/TonyBlur/glpi-followup-translate
 [mindmap-link]: https://github.com/TonyBlur/tblu-lobechat-mindmap-plugin
 [bookmark-link]: https://github.com/TonyBlur/tblu-bookmark
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-111?style=flat-square
+
+<!-- Tech Stack — Category Labels (dark gray bg, distinguishable from tech badges) -->
+[lang-label]: https://img.shields.io/badge/Languages-111?style=flat-square
+[frontend-label]: https://img.shields.io/badge/Frontend-111?style=flat-square
+[backend-label]: https://img.shields.io/badge/Backend-111?style=flat-square
+[devops-label]: https://img.shields.io/badge/DevOps-111?style=flat-square
+[ai-label]: https://img.shields.io/badge/AI_%26_LLM-111?style=flat-square
+[ide-label]: https://img.shields.io/badge/IDE-111?style=flat-square
+[os-label]: https://img.shields.io/badge/OS-111?style=flat-square
+[terminal-label]: https://img.shields.io/badge/Terminal-111?style=flat-square
+[other-label]: https://img.shields.io/badge/Other-111?style=flat-square
 
 <!-- Tech Stack — Languages -->
 [typescript-badge]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white
