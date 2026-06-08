@@ -77,26 +77,14 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append("")
     lines.append('<div align="center">')
     lines.append("")
-    # Profile details card
-    lines.append(
-        f'  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details'
-        f'?username={username}&theme=github_dark" width="100%" />'
-    )
-    lines.append("")
-    lines.append("</div>")
-    lines.append("")
-    lines.append(RAINBOW)
-    lines.append("")
-
-    # Stats + Top Languages side by side
-    lines.append('<div align="center">')
+    # Stats card (summary-cards) + Streak Stats side by side
     lines.append(
         f'  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats'
         f'?username={username}&theme=github_dark" />'
     )
     lines.append(
-        f'  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/'
-        f'?username={username}&layout=compact&theme=github_dark&hide_border=true" />'
+        f'  <img height="170" src="https://streak-stats.demolab.com?user={username}'
+        f'&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />'
     )
     lines.append("")
     lines.append("</div>")
@@ -104,11 +92,11 @@ def build_auto_section(username: str, repos: List[Dict]) -> str:
     lines.append(RAINBOW)
     lines.append("")
 
-    # Activity graph
+    # Top Languages card (summary-cards, replaces dead github-readme-stats)
     lines.append('<div align="center">')
     lines.append(
-        f'  <img src="https://github-readme-activity-graph.vercel.app/graph'
-        f'?username={username}&theme=github-compact&hide_border=true" width="100%" />'
+        f'  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language'
+        f'?username={username}&theme=github_dark" />'
     )
     lines.append("")
     lines.append("</div>")
