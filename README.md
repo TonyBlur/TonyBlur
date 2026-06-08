@@ -104,6 +104,55 @@
 
 <!-- AUTO-REPO-STATS:START -->
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
+
+</div>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyBlur&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBlur&theme=github-compact&hide_border=true" width="100%" />
+
+</div>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📦 Repository Overview
+
+<div align="center">
+
+![🌐 Repos](https://img.shields.io/badge/🌐 Repos-22-8ae8ff?style=flat-square&labelColor=black)
+![🧩 Source](https://img.shields.io/badge/🧩 Source-6-c4f042?style=flat-square&labelColor=black)
+![🍴 Forks](https://img.shields.io/badge/🍴 Forks-16-ff80eb?style=flat-square&labelColor=black)
+
+</div>
+
+- 🛠️ Top languages: **TypeScript** (6), **Python** (5), **JavaScript** (4), **HTML** (3), **Go** (1), **Vue** (1)
+
+| Repo | Type | ⭐ | Last Push | Language | Activity |
+|:---|:---:|---:|:---:|:---:|:---|
+| [tblu-bookmark](https://github.com/TonyBlur/tblu-bookmark) | Fork | 2 | 2026-04-14 | HTML | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-bookmark?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-bookmark?style=flat-square) |
+| [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-06-08 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
+| [onlyoffice-filepanel](https://github.com/TonyBlur/onlyoffice-filepanel) | Source | 0 | 2026-06-08 | JavaScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/onlyoffice-filepanel?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/onlyoffice-filepanel?style=flat-square) |
+| [new-api](https://github.com/TonyBlur/new-api) | Fork | 0 | 2026-06-08 | Go | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/new-api?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/new-api?style=flat-square) |
+| [mytube](https://github.com/TonyBlur/mytube) | Fork | 0 | 2026-06-07 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/mytube?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/mytube?style=flat-square) |
+| [tblu-lobehub](https://github.com/TonyBlur/tblu-lobehub) | Fork | 0 | 2026-06-04 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobehub?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobehub?style=flat-square) |
+| [glpi-followup-translate](https://github.com/TonyBlur/glpi-followup-translate) | Source | 0 | 2026-06-03 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/glpi-followup-translate?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/glpi-followup-translate?style=flat-square) |
+| [gpt4free](https://github.com/TonyBlur/gpt4free) | Fork | 0 | 2026-05-26 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/gpt4free?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/gpt4free?style=flat-square) |
+
+
 <!-- AUTO-REPO-STATS:END -->
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
