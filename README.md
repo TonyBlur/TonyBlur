@@ -22,10 +22,10 @@
 
 ## 📦 Repository Status
 
-- 🌐 Total public repositories: **21**
-- 🧩 Source repositories: **5**
+- 🌐 Total public repositories: **22**
+- 🧩 Source repositories: **6**
 - 🍴 Fork repositories: **16**
-- 🛠️ Top languages by repository count: **TypeScript (6), Python (5), JavaScript (4), HTML (3), Go (1)**
+- 🛠️ Top languages by repository count: **TypeScript (6), Python (5), JavaScript (4), HTML (3), Vue (1), Go (1)**
 
 | Repo | Type | ⭐ Stars | Last Push | Main Language | Activity |
 |---|---:|---:|---:|---|---|
