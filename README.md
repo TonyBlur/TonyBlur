@@ -29,7 +29,7 @@
 
 ### 💫 Tech Stack and Tools
 
-                                                         [![][lang-label]][lang-label]
+<div align="right"><img src="https://img.shields.io/badge/-LANGUAGES-000?style=flat-square" /></div>
 
 [![][typescript-badge]][typescript-link]
 [![][python-badge]][python-link]
@@ -40,20 +40,20 @@
 [![][html-badge]][html-link]
 [![][shell-badge]][shell-link]
 
-                                                         [![][frontend-label]][frontend-label]
+<div align="right"><img src="https://img.shields.io/badge/-FRONTEND-000?style=flat-square" /></div>
 
 [![][react-badge]][react-link]
 [![][nodejs-badge]][nodejs-link]
 [![][tailwind-badge]][tailwind-link]
 [![][vite-badge]][vite-link]
 
-                                                         [![][backend-label]][backend-label]
+<div align="right"><img src="https://img.shields.io/badge/-BACKEND-000?style=flat-square" /></div>
 
 [![][postgres-badge]][postgres-link]
 [![][redis-badge]][redis-link]
 [![][nginx-badge]][nginx-link]
 
-                                                         [![][devops-label]][devops-label]
+<div align="right"><img src="https://img.shields.io/badge/-DEVOPS-000?style=flat-square" /></div>
 
 [![][docker-badge]][docker-link]
 [![][ghactions-badge]][ghactions-link]
@@ -61,7 +61,7 @@
 [![][cloudflare-badge]][cloudflare-link]
 [![][git-badge]][git-link]
 
-                                                         [![][ai-label]][ai-label]
+<div align="right"><img src="https://img.shields.io/badge/-AI_%26_LLM-000?style=flat-square" /></div>
 
 [![][copilot-badge]][copilot-link]
 [![][claude-badge]][claude-link]
@@ -69,23 +69,23 @@
 [![][workbuddy-badge]][workbuddy-link]
 [![][qoderwork-badge]][qoderwork-link]
 
-                                                         [![][ide-label]][ide-label]
+<div align="right"><img src="https://img.shields.io/badge/-IDE-000?style=flat-square" /></div>
 
 [![][vscode-badge]][vscode-link]
 
-                                                         [![][os-label]][os-label]
+<div align="right"><img src="https://img.shields.io/badge/-OS-000?style=flat-square" /></div>
 
 [![][windows-badge]][windows-link]
 [![][linux-badge]][linux-link]
 [![][macos-badge]][macos-link]
 
-                                                         [![][shell-label]][shell-label]
+<div align="right"><img src="https://img.shields.io/badge/-TERMINAL-000?style=flat-square" /></div>
 
 [![][winterm-badge]][winterm-link]
 [![][bash-badge]][bash-link]
 [![][zsh-badge]][zsh-link]
 
-                                                         [![][other-label]][other-label]
+<div align="right"><img src="https://img.shields.io/badge/-OTHER-000?style=flat-square" /></div>
 
 [![][figma-badge]][figma-link]
 [![][blender-badge]][blender-link]
@@ -149,17 +149,6 @@
 [bookmark-link]: https://github.com/TonyBlur/tblu-bookmark
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 
-<!-- Tech Stack — Category Labels -->
-[lang-label]: https://img.shields.io/badge/-LANGUAGES-000?style=flat-square
-[frontend-label]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
-[backend-label]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
-[devops-label]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
-[ai-label]: https://img.shields.io/badge/-AI_&_LLM-000?style=flat-square
-[ide-label]: https://img.shields.io/badge/-IDE-000?style=flat-square
-[os-label]: https://img.shields.io/badge/-OS-000?style=flat-square
-[shell-label]: https://img.shields.io/badge/-TERMINAL-000?style=flat-square
-[other-label]: https://img.shields.io/badge/-OTHER-000?style=flat-square
-
 <!-- Tech Stack — Languages -->
 [typescript-badge]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white
 [typescript-link]: https://www.typescriptlang.org/
@@ -169,13 +158,13 @@
 [javascript-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [go-badge]: https://img.shields.io/badge/-Go-000?style=flat-square&logo=go&logoColor=white
 [go-link]: https://go.dev/
-[cpp-badge]: https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%2B%2B&logoColor=white
+[cpp-badge]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logo=c%2B%2B&logoColor=white
 [cpp-link]: https://isocpp.org/
 [vue-badge]: https://img.shields.io/badge/-Vue-000?style=flat-square&logo=vuedotjs&logoColor=white
 [vue-link]: https://vuejs.org/
 [html-badge]: https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5&logoColor=white
 [html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[shell-badge]: https://img.shields.io/badge/-Shell/Bash-000?style=flat-square&logo=gnubash&logoColor=white
+[shell-badge]: https://img.shields.io/badge/-Shell%2FBash-000?style=flat-square&logo=gnubash&logoColor=white
 [shell-link]: https://www.gnu.org/software/bash/
 
 <!-- Tech Stack — Frontend -->
