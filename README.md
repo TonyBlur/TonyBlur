@@ -2,32 +2,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi%2C+I'm+TonyBlur;Learning+to+program+my+life" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+TonyBlur;Learning+to+program+my+life" alt="Typing SVG" />
 
 **AI Explorer · Vibe Coder · Tool Builder**
 
 <br/>
 
-[![][website-shield]][website-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-followers-shield]][github-followers-link]
-[![][github-repos-shield]][github-repos-link]
+[![][website-shield]][website-link] [![][github-stars-shield]][github-stars-link] [![][github-followers-shield]][github-followers-link] [![][github-repos-shield]][github-repos-link]
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## About Me
+## 👋 About Me
 
-- Currently working on **AI gateway & self-hosted tools**
-- Currently learning **LLM integration & agent workflows**
-- Ask me about **API aggregation, Docker deployment, OnlyOffice**
-- Website: [tblu.xyz][website-link]
-- Fun fact: I fork more than I create — but every fork has a purpose
+- 🔭 Currently working on **AI gateway & self-hosted tools**
+- 🌱 Currently learning **LLM integration & agent workflows**
+- 💬 Ask me about **API aggregation, Docker deployment, OnlyOffice**
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Tech Stack and Tools
+### 💫 Tech Stack and Tools
 
 [![][lang-label]][readme-top] [![][typescript-badge]][typescript-link] [![][python-badge]][python-link] [![][javascript-badge]][javascript-link] [![][go-badge]][go-link] [![][cpp-badge]][cpp-link] [![][vue-badge]][vue-link] [![][html-badge]][html-link] [![][shell-badge]][shell-link]
 
@@ -47,28 +42,42 @@
 
 [![][other-label]][readme-top] [![][figma-badge]][figma-link] [![][blender-badge]][blender-link] [![][github-badge]][github-link]
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Featured Projects
+## ✨ Featured Projects
 
 | Project | Description | Tech |
 |:---|:---|:---:|
-| [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
-| [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
-| [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
-| [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
-| [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
+| 🗂️ [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
+| 📊 [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
+| 🌐 [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
+| 🧩 [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
+| 🔖 [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
+<!-- Row 1: Activity Graph — full-width area chart -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBlur&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 <br/>
 
+<!-- Row 2: Stats + Streak — side by side -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" />
+<img height="170" src="https://streak-stats.demolab.com?user=TonyBlur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+<br/>
+
+<!-- Row 3: Languages + Productive Time — side by side -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TonyBlur&theme=github_dark&utc_offset=8" />
+
+<br/>
+
+<!-- Row 4: Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake.svg" />
@@ -77,7 +86,7 @@
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
 
