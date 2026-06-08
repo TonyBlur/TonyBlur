@@ -29,67 +29,17 @@
 
 ### 💫 Tech Stack and Tools
 
-<div align="right"><img src="https://img.shields.io/badge/-LANGUAGES-000?style=flat-square" /></div>
-
-[![][typescript-badge]][typescript-link]
-[![][python-badge]][python-link]
-[![][javascript-badge]][javascript-link]
-[![][go-badge]][go-link]
-[![][cpp-badge]][cpp-link]
-[![][vue-badge]][vue-link]
-[![][html-badge]][html-link]
-[![][shell-badge]][shell-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-FRONTEND-000?style=flat-square" /></div>
-
-[![][react-badge]][react-link]
-[![][nodejs-badge]][nodejs-link]
-[![][tailwind-badge]][tailwind-link]
-[![][vite-badge]][vite-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-BACKEND-000?style=flat-square" /></div>
-
-[![][postgres-badge]][postgres-link]
-[![][redis-badge]][redis-link]
-[![][nginx-badge]][nginx-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-DEVOPS-000?style=flat-square" /></div>
-
-[![][docker-badge]][docker-link]
-[![][ghactions-badge]][ghactions-link]
-[![][vercel-badge]][vercel-link]
-[![][cloudflare-badge]][cloudflare-link]
-[![][git-badge]][git-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-AI_%26_LLM-000?style=flat-square" /></div>
-
-[![][copilot-badge]][copilot-link]
-[![][claude-badge]][claude-link]
-[![][codex-badge]][codex-link]
-[![][workbuddy-badge]][workbuddy-link]
-[![][qoderwork-badge]][qoderwork-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-IDE-000?style=flat-square" /></div>
-
-[![][vscode-badge]][vscode-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-OS-000?style=flat-square" /></div>
-
-[![][windows-badge]][windows-link]
-[![][linux-badge]][linux-link]
-[![][macos-badge]][macos-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-TERMINAL-000?style=flat-square" /></div>
-
-[![][winterm-badge]][winterm-link]
-[![][bash-badge]][bash-link]
-[![][zsh-badge]][zsh-link]
-
-<div align="right"><img src="https://img.shields.io/badge/-OTHER-000?style=flat-square" /></div>
-
-[![][figma-badge]][figma-link]
-[![][blender-badge]][blender-link]
-[![][github-badge]][github-link]
+| | |
+|:---|:---|
+| 💻 **Languages** | [![][typescript-badge]][typescript-link] [![][python-badge]][python-link] [![][javascript-badge]][javascript-link] [![][go-badge]][go-link] [![][cpp-badge]][cpp-link] [![][vue-badge]][vue-link] [![][html-badge]][html-link] [![][shell-badge]][shell-link] |
+| 🎨 **Frontend** | [![][react-badge]][react-link] [![][nodejs-badge]][nodejs-link] [![][tailwind-badge]][tailwind-link] [![][vite-badge]][vite-link] |
+| 🗄️ **Backend** | [![][postgres-badge]][postgres-link] [![][redis-badge]][redis-link] [![][nginx-badge]][nginx-link] |
+| 🚀 **DevOps** | [![][docker-badge]][docker-link] [![][ghactions-badge]][ghactions-link] [![][vercel-badge]][vercel-link] [![][cloudflare-badge]][cloudflare-link] [![][git-badge]][git-link] |
+| 🤖 **AI & LLM** | [![][copilot-badge]][copilot-link] [![][claude-badge]][claude-link] [![][codex-badge]][codex-link] [![][workbuddy-badge]][workbuddy-link] [![][qoderwork-badge]][qoderwork-link] |
+| 🔧 **IDE** | [![][vscode-badge]][vscode-link] |
+| 🖥️ **OS** | [![][windows-badge]][windows-link] [![][linux-badge]][linux-link] [![][macos-badge]][macos-link] |
+| ⌨️ **Terminal** | [![][winterm-badge]][winterm-link] [![][bash-badge]][bash-link] [![][zsh-badge]][zsh-link] |
+| 🧩 **Other** | [![][figma-badge]][figma-link] [![][blender-badge]][blender-link] [![][github-badge]][github-link] |
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
