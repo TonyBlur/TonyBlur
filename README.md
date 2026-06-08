@@ -2,14 +2,12 @@
 
 <div align="center">
 
-<!-- Hero Section -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+TonyBlur;Learning+to+program+my+life" alt="Typing SVG" />
 
 **AI Explorer · Vibe Coder · Tool Builder**
 
 <br/>
 
-<!-- SHIELD GROUP -->
 [![][website-shield]][website-link]
 [![][github-stars-shield]][github-stars-link]
 [![][github-followers-shield]][github-followers-link]
@@ -21,17 +19,10 @@
 
 ## 👋 About Me
 
-<div align="center">
-
-| 💻 Focus | 🚀 Style | 🌍 Web |
-|:---:|:---:|:---:|
-| AI, vibe coding, practical tools | Simple, useful, maintainable | [tblu.xyz][website-link] |
-
-</div>
-
 - 🔭 I'm currently working on **AI gateway & self-hosted tools**
 - 🌱 I'm currently learning **LLM integration & agent workflows**
 - 💬 Ask me about **API aggregation, Docker deployment, OnlyOffice**
+- 🌍 Website: [tblu.xyz][website-link]
 - ⚡ Fun fact: I fork more than I create — but every fork has a purpose
 
 <div align="right">
@@ -43,8 +34,6 @@
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages
 
@@ -70,8 +59,6 @@
 [![Linux][linux-badge]][linux-link]
 [![Cloudflare][cloudflare-badge]][cloudflare-link]
 
-</div>
-
 <div align="right">
 
 [![][back-to-top]][readme-top]
@@ -82,8 +69,6 @@
 
 ## ✨ Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech |
 |:---|:---|:---:|
 | 🗂️ [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
@@ -91,8 +76,6 @@
 | 🌐 [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
 | 🧩 [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
 | 🔖 [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
-
-</div>
 
 <div align="right">
 
@@ -102,51 +85,35 @@
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- AUTO-REPO-STATS:START -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyBlur&theme=github_dark" />
   <img height="170" src="https://streak-stats.demolab.com?user=TonyBlur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
 </div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyBlur&theme=github_dark" width="100%" />
 </div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## 📦 Repository Overview
 
 <div align="center">
-
-![🌐 Repos](https://img.shields.io/badge/🌐 Repos-22-8ae8ff?style=flat-square&labelColor=black)
-![🧩 Source](https://img.shields.io/badge/🧩 Source-6-c4f042?style=flat-square&labelColor=black)
-![🍴 Forks](https://img.shields.io/badge/🍴 Forks-16-ff80eb?style=flat-square&labelColor=black)
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyBlur&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TonyBlur&theme=github_dark" />
 </div>
 
-- 🛠️ Top languages: **TypeScript** (6), **Python** (5), **JavaScript** (4), **HTML** (3), **Go** (1), **Vue** (1)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TonyBlur/TonyBlur/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-| Repo | Type | ⭐ | Last Push | Language | Activity |
-|:---|:---:|---:|:---:|:---:|:---|
-| [tblu-bookmark](https://github.com/TonyBlur/tblu-bookmark) | Fork | 2 | 2026-04-14 | HTML | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-bookmark?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-bookmark?style=flat-square) |
-| [TonyBlur](https://github.com/TonyBlur/TonyBlur) | Source | 0 | 2026-06-08 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/TonyBlur?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/TonyBlur?style=flat-square) |
-| [onlyoffice-filepanel](https://github.com/TonyBlur/onlyoffice-filepanel) | Source | 0 | 2026-06-08 | JavaScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/onlyoffice-filepanel?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/onlyoffice-filepanel?style=flat-square) |
-| [new-api](https://github.com/TonyBlur/new-api) | Fork | 0 | 2026-06-08 | Go | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/new-api?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/new-api?style=flat-square) |
-| [mytube](https://github.com/TonyBlur/mytube) | Fork | 0 | 2026-06-07 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/mytube?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/mytube?style=flat-square) |
-| [tblu-lobehub](https://github.com/TonyBlur/tblu-lobehub) | Fork | 0 | 2026-06-04 | TypeScript | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/tblu-lobehub?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/tblu-lobehub?style=flat-square) |
-| [glpi-followup-translate](https://github.com/TonyBlur/glpi-followup-translate) | Source | 0 | 2026-06-03 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/glpi-followup-translate?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/glpi-followup-translate?style=flat-square) |
-| [gpt4free](https://github.com/TonyBlur/gpt4free) | Fork | 0 | 2026-05-26 | Python | ![activity](https://img.shields.io/github/commit-activity/y/TonyBlur/gpt4free?style=flat-square) ![last](https://img.shields.io/github/last-commit/TonyBlur/gpt4free?style=flat-square) |
+<div align="right">
 
+[![][back-to-top]][readme-top]
 
-<!-- AUTO-REPO-STATS:END -->
+</div>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
