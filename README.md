@@ -48,11 +48,11 @@
 
 | Project | Description | Tech |
 |:---|:---|:---:|
-| 🗂️ [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `JavaScript` `Docker` |
-| 📊 [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
+| 🗂️ [**onlyoffice-filepanel**][onlyoffice-link] | Extremely Simple yet Powerful File Management / Editor Panel for OnlyOffice | `TypeScript` `Docker` |
 | 🌐 [**glpi-followup-translate**][glpi-link] | Auto-translate GLPI ticket followups using local Ollama LLM | `Python` `Ollama` |
-| 🧩 [**tblu-lobechat-mindmap-plugin**][mindmap-link] | A LobeChat plugin that generates mind maps from user input | `TypeScript` |
-| 🔖 [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` |
+| 🏷️ [**ar-book-labels**][labels-link] | Generate printable Accelerated Reader book labels from Excel | `Python` |
+| 🔖 [**tblu-bookmark**][bookmark-link] | Intuitive tool for managing and exporting bookmarks into a shareable website | `HTML` `Tailwind` |
+| 📊 [**scoreboard**][scoreboard-link] | A Simple yet powerful Online Scoreboard — All Designed by AI Agent | `Vue` `Vite` |
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -108,7 +108,7 @@
 [onlyoffice-link]: https://github.com/TonyBlur/onlyoffice-filepanel
 [scoreboard-link]: https://github.com/TonyBlur/scoreboard
 [glpi-link]: https://github.com/TonyBlur/glpi-followup-translate
-[mindmap-link]: https://github.com/TonyBlur/tblu-lobechat-mindmap-plugin
+[labels-link]: https://github.com/TonyBlur/ar-book-labels
 [bookmark-link]: https://github.com/TonyBlur/tblu-bookmark
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-111?style=flat-square
 
